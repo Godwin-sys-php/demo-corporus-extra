@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+
+.env
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Invoices directory
+Invoices/
+Assets/number-voucher.txt
+# Package lock file
+package-lock.json
